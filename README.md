@@ -2,9 +2,9 @@
 
 ### Estudiante de Ingeniería en Tecnologías de la Información y Seguridad | Aspirante a Analista SOC
 
-Me interesa la **ciberseguridad defensiva (Blue Team)**, especialmente el monitoreo de eventos, la investigación de incidentes, el análisis forense digital y la seguridad de redes.
+Me interesa la **ciberseguridad defensiva (Blue Team)**, el **análisis forense digital** y la **seguridad de redes**. Estoy fortaleciendo mis conocimientos mediante estudio, laboratorios prácticos y retos CTF.
 
-Estoy construyendo un portafolio de **laboratorios prácticos y write-ups** para documentar lo que aprendo, cómo analizo las evidencias y qué conclusiones obtengo.
+Mi objetivo es desarrollar habilidades para desempeñarme como **Analista SOC Junior**, con una metodología basada en **investigar, analizar evidencias y documentar resultados**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-CesarSoria2224-181717?logo=github&logoColor=white)](https://github.com/CesarSoria2224)
 [![Medium](https://img.shields.io/badge/Medium-%40csm24-000000?logo=medium&logoColor=white)](https://medium.com/@csm24)
@@ -13,69 +13,53 @@ Estoy construyendo un portafolio de **laboratorios prácticos y write-ups** para
 
 ## 🎯 Áreas de interés
 
-- 🛡️ **SOC / Blue Team:** monitoreo, análisis de alertas y registros, investigación de eventos.
-- 🔍 **Forense digital:** análisis de evidencias y artefactos digitales.
-- 🌐 **Network Forensics:** protocolos, capturas PCAP y análisis de tráfico con Wireshark.
-- 🏴 **CTF:** resolución y documentación de retos como práctica técnica.
+- 🛡️ **SOC / Blue Team:** monitoreo de seguridad, registros, alertas e investigación de incidentes.
+- 🔎 **Forense digital:** análisis de evidencias y artefactos.
+- 🌐 **Seguridad y forense de redes:** protocolos, tráfico y archivos PCAP.
+- 🏴 **CTF:** resolución de desafíos y documentación de aprendizajes.
 
-## 🧪 Laboratorio destacado
+## 📂 Organización de mi portafolio
 
-### LAB-SOC-001 — Ping Me: Network Forensics & SOC Monitoring
+Mantengo separados los **laboratorios técnicos**, los **write-ups de CTF** y los **artículos de divulgación** para facilitar su consulta.
 
-**Estado: en desarrollo**
+| Sección | Contenido | Estado |
+| --- | --- | --- |
+| **SOC Home Lab** | Laboratorios de monitoreo, análisis de eventos y detección | En preparación |
+| **Digital Forensics Labs** | Investigaciones y ejercicios de forense digital | En preparación |
+| **Network Security Labs** | Análisis de tráfico, protocolos y capturas de red | En preparación |
+| **CTF Write-ups** | Resoluciones documentadas de retos, organizadas por categoría | En preparación |
+| **Artículos en Medium** | Explicaciones, investigaciones y aprendizajes | [Ver Medium](https://medium.com/@csm24) |
 
-Laboratorio aislado en **VMware** para estudiar tráfico ICMP, analizar paquetes y explorar su visibilidad desde una perspectiva SOC.
-
-| Componente | Función |
-| --- | --- |
-| Kali Linux + Scapy | Generación de tráfico de prueba |
-| Wireshark | Captura y análisis de paquetes |
-| Windows 10 Pro + Wazuh Agent | Equipo supervisado |
-| Ubuntu Server + Wazuh 4.14.9 | Plataforma de monitoreo |
-
-**Avance:** entorno virtual preparado y agente Windows conectado a Wazuh; la captura PCAP, el análisis final y la validación de una detección de red están pendientes de documentarse.
-
-> Publicaré aquí el enlace al laboratorio y sus evidencias cuando la investigación esté terminada y verificada.
+> Los enlaces a repositorios y laboratorios se añadirán cuando estén creados y cuenten con contenido verificable. Los proyectos en desarrollo no se presentan como terminados.
 
 ## 🧰 Tecnologías y herramientas
 
-**Sistemas y redes:** Linux · Windows · VMware · TCP/IP · ICMP  
-**Monitoreo y análisis:** Wazuh · Wireshark · PCAP  
-**Forense y CTF:** Autopsy · Volatility · CyberChef  
-**Scripting y documentación:** Python · Scapy · Git · Markdown
+- **Sistemas y entornos:** Linux, Windows, VMware.
+- **Redes y análisis:** TCP/IP, Wireshark, PCAP.
+- **Monitoreo de seguridad:** Wazuh (en aprendizaje).
+- **Forense y CTF:** Autopsy, Volatility, CyberChef.
+- **Scripting y documentación:** Python, Git, Markdown.
 
-*Herramientas que utilizo o estoy estudiando; mi nivel de experiencia varía según la tecnología.*
-
-## 📁 Portafolio técnico
-
-Estoy organizando mis proyectos en estas líneas:
-
-| Categoría | Contenido |
-| --- | --- |
-| **SOC Home Lab** | Monitoreo, detección, análisis de alertas e informes de investigación |
-| **Digital Forensics** | Análisis de evidencias, memoria y artefactos |
-| **Network Security** | Análisis de paquetes, tráfico y protocolos |
-| **CTF Write-ups** | Metodología, evidencias y aprendizajes de retos |
-
-Los enlaces a proyectos se agregarán a medida que publique laboratorios completos.
+*Mi nivel de experiencia varía según la herramienta; algunas forman parte de mi proceso de aprendizaje.*
 
 ## 📚 Actualmente aprendiendo
 
-- Preparación para **CompTIA Security+ SY0-701**.
-- Monitoreo y análisis de eventos orientados a **SOC Nivel 1**.
+- **CompTIA Security+ SY0-701**.
+- Fundamentos y práctica de **SOC Nivel 1**.
 - Análisis forense digital y de redes.
+- Documentación técnica de laboratorios y retos.
 
 ## ✍️ Publicaciones
 
-Comparto artículos y documentación en [**Medium — @csm24**](https://medium.com/@csm24).
+Mis artículos técnicos y explicaciones se publicarán en [**Medium — @csm24**](https://medium.com/@csm24).
 
-**GitHub** contendrá la parte técnica y reproducible de cada laboratorio; **Medium**, la explicación de la investigación y sus hallazgos.
+En **GitHub** mantendré los procedimientos, configuraciones y evidencias de los laboratorios; en un **repositorio independiente** organizaré los write-ups de CTF.
 
 ---
 
 ### 📬 Contacto
 
-- [GitHub: CesarSoria2224](https://github.com/CesarSoria2224)
-- [Medium: @csm24](https://medium.com/@csm24)
+- [GitHub](https://github.com/CesarSoria2224)
+- [Medium](https://medium.com/@csm24)
 
 *Aprender · Practicar · Investigar · Documentar*
