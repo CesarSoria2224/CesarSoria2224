@@ -1,48 +1,49 @@
 # ¡Hola! Soy César Soria 👋
 
 **Estudiante de Ingeniería en Tecnologías de la Información y Seguridad (USFX)**  
-**En formación para SOC Analyst | Blue Team · Digital Forensics · Network Security**
+**Aspirante a Analista SOC | Blue Team · Digital Forensics · Network Security**
 
-Me interesa comprender cómo se detectan e investigan los incidentes de seguridad. Aprendo mediante laboratorios controlados, análisis de evidencias y retos prácticos, y documento mis avances con claridad y rigor técnico.
+Me interesa comprender cómo se detectan e investigan los incidentes de seguridad. Fortalezco mis conocimientos con laboratorios controlados, análisis de evidencias y retos CTF, procurando documentar de forma clara y verificable cada aprendizaje.
 
 [![GitHub](https://img.shields.io/badge/GitHub-CesarSoria2224-181717?logo=github&logoColor=white)](https://github.com/CesarSoria2224)
 [![Medium](https://img.shields.io/badge/Medium-%40csm24-000000?logo=medium&logoColor=white)](https://medium.com/@csm24)
 
 ---
 
-## 🔎 Mi enfoque
+## 🔎 Áreas de interés
 
 | 🛡️ SOC / Blue Team | 🔬 Forense digital | 🌐 Seguridad de redes |
 | --- | --- | --- |
-| Monitoreo, análisis de eventos y alertas | Investigación y preservación de evidencias | Análisis de tráfico, protocolos y PCAP |
+| Monitoreo, análisis de eventos y alertas | Investigación de evidencias y artefactos | Análisis de protocolos, tráfico y PCAP |
 
-## 📁 Portafolio
+## 📂 Portafolio técnico
 
-Mi trabajo está organizado por tipo de contenido, para no mezclar **laboratorios**, **retos CTF** y **artículos**.
+Para facilitar la navegación, mantengo separados los **laboratorios**, los **write-ups CTF** y los **artículos**.
 
-| Espacio | Qué encontrarás | Estado |
+| Espacio | Contenido | Estado |
 | --- | --- | --- |
-| **SOC-Home-Lab** | Laboratorios técnicos de monitoreo y análisis SOC | Próximamente |
-| **CTF-Writeups** | Resoluciones de retos organizadas por categoría | Próximamente |
-| **[Medium](https://medium.com/@csm24)** | Artículos explicativos y aprendizajes | Perfil de publicaciones |
+| [**SOC-Home-Lab**](https://github.com/CesarSoria2224/SOC-Home-Lab) | Laboratorios documentados de monitoreo y análisis de seguridad | 🟡 En desarrollo |
+| [**CTF-Writeups**](https://github.com/CesarSoria2224/CTF-Writeups) | Retos organizados por Forensics, Cryptography, Steganography, Web y OSINT | 📁 Estructura inicial |
+| [**Medium — @csm24**](https://medium.com/@csm24) | Artículos e investigaciones explicados para lectores | ✍️ Publicaciones por separado |
 
-> Los enlaces a los repositorios aparecerán cuando estén creados. Los proyectos en curso se identificarán como tales y no se presentarán como finalizados.
+> Los repositorios ya contienen índices y plantillas, pero **no se presentan laboratorios o retos como completados sin resultados verificados**.
 
 ## 🧰 Herramientas que utilizo o estudio
 
 `Linux` · `Windows` · `VMware` · `Wireshark` · `Wazuh` · `Python` · `Scapy` · `Autopsy` · `Volatility` · `CyberChef` · `Git`
 
-## 📚 En qué estoy trabajando
+## 📚 Actualmente aprendiendo
 
 - Preparación para **CompTIA Security+ SY0-701**.
-- Práctica de monitoreo e investigación orientada a **SOC Nivel 1**.
-- Desarrollo y documentación de laboratorios de seguridad y forense de redes.
-
-## 📬 Enlaces
-
-- **GitHub:** [CesarSoria2224](https://github.com/CesarSoria2224)
-- **Medium:** [@csm24](https://medium.com/@csm24)
+- Monitoreo e investigación de eventos orientados a **SOC Nivel 1**.
+- Forense digital y análisis forense de redes.
+- Documentación de laboratorios técnicos y CTF.
 
 ---
+
+### 📬 Enlaces
+
+- [GitHub: CesarSoria2224](https://github.com/CesarSoria2224)
+- [Medium: @csm24](https://medium.com/@csm24)
 
 *Aprender · Practicar · Analizar · Documentar*
